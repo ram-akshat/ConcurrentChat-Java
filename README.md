@@ -194,6 +194,3 @@ This project was built specifically to demonstrate applied concurrency knowledge
 
 ---
 
-## License
-
-MIT
